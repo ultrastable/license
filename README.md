@@ -25,4 +25,4 @@ USL-1.0 adapts the QNFO Unified License Agreement v2.1 (<https://github.com/QNFO
 
 ## Not legal advice
 
-This text was drafted by an AI assistant for the Licensor and has not been reviewed by a lawyer. Before relying on it in a dispute, have a qualified attorney review it, in particular Sections 5 (remedies), 7.2 (commercial implementations of a specification), 15 (liability) and 17 (law and arbitration), and the enforceability of each in the jurisdictions you care about. No licence text can promise enforceability "in every country".
+This text was drafted and reviewed by the Ultrastable fleet at the Licensor's direction; there is no outside lawyer review. The reasoning, the sources read and the decision on each risk (remedies, commercial implementations of a specification, liability, law and arbitration, enforceability by region) are recorded in [DECISIONS.md](DECISIONS.md), and the license reforms itself to the nearest enforceable measure where a part fails (Section 18.1). No license text can promise enforceability in every country.

@@ -5,7 +5,7 @@
 
 **Can I use Ultrastable for free?** Yes, for non-commercial use: personal projects, learning, teaching, published research, non-profits, schools, public bodies, and a 60-day no-revenue evaluation by anyone.
 
-**I run a startup. Do I owe anything?** If Ultrastable runs, builds or supports a business that earns money, yes: register under the Commercial Terms. The default Founder tier is free until the business has earned USD 50,000, then 5%.
+**I run a startup. Do I owe anything?** If Ultrastable runs, builds or supports a business that earns money, yes: register under the Commercial Terms. The default Founder tier is free until the business has earned USD 100,000 in total, then 5% (2% on the part of a year's revenue above USD 1,000,000).
 
 **I am a consultant and a client pays me.** That is Commercial Use (`LICENSE` 3.1(d), 3.2). Register.
 
