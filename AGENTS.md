@@ -35,7 +35,7 @@ Scope: see `SCOPE.md` in `ultrastable/spec`. Ultrastable manages building a work
 - Every loop closes inside the fleet: trigger, actor, action, verification and write-back all run without a person. A reviewer is a different agent, model or automated check; a decision is made by the system and stored as data with its default in effect and a probe that proceeds on that default; a missing capability, credential route or permission is constructed, delegated to a sibling or routed around (red-team every surface) and never assumed to arrive from outside.
 - The fleet is one system across repositories. A fix belongs where the defect lives: change that repository in the same session (branch, PR, merge, deploy, probe) rather than noting it, filing it for a person, or waiting. A loop that spans repositories is wired by code (workflow dispatch, shared check, sync script), not by a handoff.
 - Documents, memories and owner cards are not state. State is code and data that code reads. Delete or wire any document, card or issue nothing automated consumes. The sole exception is IC-GATE-001 (irreversible and identity-bound), and there the card is machine-readable data with a default in effect and a probe, never prose.
-- Executable proof: `python3 scripts/self_closed_lint.py` fails when this rule leaves an instruction file or when a change adds text that waits on a person (for review, owner decision, approval, "please review").
+- Executable proof: `python3 tools/self_closed_lint.py` fails when this rule leaves an instruction file or when a change adds text that waits on a person (for review, owner decision, approval, "please review").
 
 ## If your tool cannot do all of that
 
