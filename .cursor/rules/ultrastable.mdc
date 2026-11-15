@@ -76,5 +76,4 @@ Today the repositories are at **stage 1**. Say so; do not claim more.
 - Test: `node scripts/check-copies.mjs workers spec` (the license files in every repository must be identical).
 - The license text is immutable once released: a change is a new version, never an edit.
 - Pricing numbers live in `COMMERCIAL-TERMS.md` only. Every change is a protected change with a human reviewer.
-- Not legal advice: nothing here has had a lawyer's review until the repository says so.
 - The product's own agent protocol for the organizations it creates is in `agents/AGENTS.md` (in `ultrastable/workers`); this contract is how *this* repository is run.
